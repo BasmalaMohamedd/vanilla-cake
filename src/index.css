@@ -37,7 +37,7 @@ main{
     display:flex;
     justify-content:center;
     gap: 10px;
-    max-width: 400px;
+    max-width: 800px;
     margin: auto;
 
     
@@ -47,7 +47,7 @@ main{
     border-radius: 6px;
     border: 1px solid #D1D5DB;
     padding: 8px 10px;
-    width: 65%; /*to avoid mobile zoom in*/
+    width: 50%; /*to avoid mobile zoom in*/
     height: 5vh;
 }
 
