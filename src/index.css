@@ -43,14 +43,13 @@ main{
     
 }
 
-.add-ingrediant-form input{
+.add-ingrediant-form input, textarea{
     border-radius: 6px;
     border: 1px solid #D1D5DB;
     padding: 8px 10px;
-    width: 100%; /*to avoid mobile zoom in*/
-    height: 5vh;
-    font-size: 16px;
-
+    width: 80%; /*to avoid mobile zoom in*/
+    height: 6vh;
+    font-size: 1rem;
 }
 
 
@@ -59,7 +58,7 @@ main{
     color: #FAFAF8;
     border-radius: 6px;
     border: none;
-    height: 5vh;
+    height: 6vh;
 }
 .add-ingrediant-form button:hover{
     cursor:pointer;
