@@ -10,3 +10,10 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+#project information
+Vanilla Cake is a recipe webpage inspired from ChefClaude project from react course
+Scrimba link: https://scrimba.com/
+Chef Claude design link: https://www.figma.com/design/73iyU720zWmrWgJsok5tYE/Chef-Claude?node-id=1-972&t=OSAqLQHWcvLIKXsD-0
