@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+    background-color: #FAFAF8;
+}
+
+header{
+    height: 11vh;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06);
+    display: flex;
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+    font-weight: 400;
+    justify-content: center;
+    margin: auto;
+    gap: 11px;
+    align-items: center;
+
+}
+
+
+header .logo{
+    width: 4rem;
+    height: 4rem;
+}
+
+main{
+    margin: 1rem;
+}
+
+.add-ingrediant-form{
+    display:flex;
+    justify-content:center;
+    gap: 10px;
+    
+}
+
+.add-ingrediant-form input{
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+    padding: 8px 10px;
+    max-width: 400px;
+    width: 80%;
+    height: 5vh;
+}
+
+
+.add-ingrediant-form button{
+    background-color: #141413;
+    color: #FAFAF8;
+    border-radius: 6px;
+    border: none;
+    height: 5vh;
+}
+.add-ingrediant-form button:hover{
+    cursor:pointer;
+
+}
