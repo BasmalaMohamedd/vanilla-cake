@@ -7,7 +7,6 @@ export default function IngrediantForm({ setIngrediants}){
         //react 19
         const newIngrediant = formData.get("ingrediant");
         setIngrediants(preIngrediants=>[...preIngrediants, newIngrediant]);
-        console.log(ingrediants);
     }
 
     return (
