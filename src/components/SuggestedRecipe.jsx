@@ -66,7 +66,7 @@ const SuggestedRecipe = () => {
             <li>1/2 cup grated Parmesan cheese</li>
             <li>1 tbsp pure vanilla extract</li>
             <li>1 cup (240ml) whole milk</li>
-            <li>favorite extra falvors</li>
+            <li>favorite extra flavors</li>
         </ul>
       </div>
       <div className='recipe-instructions'>
