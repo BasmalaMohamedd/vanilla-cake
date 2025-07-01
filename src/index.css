@@ -31,6 +31,7 @@ header .logo{
 
 main{
     margin: 1rem;
+    
 }
 
 .add-ingrediant-form{
@@ -63,4 +64,42 @@ main{
 .add-ingrediant-form button:hover{
     cursor:pointer;
 
+}
+
+.ingrediants-list li{
+    color: #475467;
+
+}
+
+
+.getRecipeContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F0EFEB;
+    border-radius: 8px;
+    padding-inline: 28px;
+    max-width: 800px;
+    align-self: center;
+}
+
+.getRecipeContainer button{
+    background-color: #D17557;
+    height: 36px;
+    width: 115px;
+    border-radius: 6px;
+    color: #FAFAF8;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border: none;
+}
+.getRecipeContainer button:hover{
+    cursor: pointer;
+}
+
+.suggested-recipe{
+    color: #475467;
+}
+.suggested-recipe h2{
+    color: black;
 }

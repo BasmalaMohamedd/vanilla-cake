@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 Vanilla Cake is a recipe webpage inspired from ChefClaude project from react course
 Scrimba link: https://scrimba.com/
 Chef Claude design link: https://www.figma.com/design/73iyU720zWmrWgJsok5tYE/Chef-Claude?node-id=1-972&t=OSAqLQHWcvLIKXsD-0
+Recipe from chatGPT
